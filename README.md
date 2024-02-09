@@ -3,7 +3,6 @@
 <!-- ABOUT ME -->
 <div align="center">
   <h1>About Me</h1>
-  <img align="right" alt="Coding" width="175" src="https://pbs.twimg.com/profile_images/1755976595943342080/q6hU9uCn_400x400.jpg">
   <p align="left"> My name is Kevin Blinn and I plan to become a Software Developer! I'm currently a student at Clemson University on the way to get a Computer Science Degree. My goal is to   advance and work on innovative technologies. I'm currently learning how to develop software using C++. I wish to be able to program in any language I try and I'm excited to work on projects that will help everyone! Feel free to contact me with the links below and I look forward to working with you! </p>
 </div>
 
