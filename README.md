@@ -21,8 +21,7 @@
   
   <p align = "center">
    <img src="https://github.com/tandpfun/skill-icons/raw/main/icons/Gmail-Dark.svg" width="20">
-    kjb362361@gmail.com
-    <img src="https://github.com/tandpfun/skill-icons/raw/main/icons/Gmail-Dark.svg" width="20">
+    kevin.blinn.cs@gmail.com
   </p>
   
 </div>
